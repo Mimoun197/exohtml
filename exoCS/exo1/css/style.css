@@ -1,0 +1,25 @@
+h1{
+  color: red;  
+}
+h2{
+    color: blue;
+}
+p{
+    font-size: 35px;
+    background-color: red;
+    font-weight: bold;
+}
+.h41{
+    font-weight: bold;
+     text-decoration: underline;
+}
+.li1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.h42{
+    font-weight: bold; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.li2{
+    font-family: Arial, Helvetica, sans-serif;
+}
