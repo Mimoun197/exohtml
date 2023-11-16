@@ -1,0 +1,36 @@
+#div1{
+    width: 100%;
+    height: 950px;
+    background-color: white;
+}
+#div2{
+    width: 100%;
+    height: 950px;
+    background-image: url(../img/anime-4k-pictures-z7ckr6aaiu0o39wc.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+#div3{
+    width: 100%;
+    height: 950px;
+    background-color: white;
+}
+div{
+    width: 300px;
+    height: 300px;
+    border: 10px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    font-size: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+button:active{
+    background-color: red;
+}
