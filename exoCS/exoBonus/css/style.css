@@ -27,10 +27,13 @@ div{
 }
 button{
     font-size: 20px;
+    padding: 5px 15px;
+    margin: 20px;
+    border: solid 5px blue;
 }
 html{
     scroll-behavior: smooth;
 }
 button:active{
-    background-color: red;
+    background-color: rgb(0, 255, 132);
 }
