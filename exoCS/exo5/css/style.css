@@ -1,0 +1,20 @@
+body{
+    width: 94%;
+    display: flex;
+    /* justify-content: space-between; */
+    margin: 3% 3%;
+    gap: 15px;
+}
+div{
+    /* width: 220px; */
+    height: 200px;
+    background-color: red;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+/* div:nth-of-type(2){
+    flex-grow:3;
+}  */
